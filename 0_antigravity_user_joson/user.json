@@ -1,0 +1,32 @@
+{
+    "jdk.jdkhome": "c:\\Users\\sudhe\\AppData\\Local\\Programs\\jdk-24.0.1",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "github.copilot.chat.followUps": "always",
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "github.copilot.nextEditSuggestions.fixes": true,
+    "mcpServers": {},
+    "diffEditor.codeLens": true,
+    "explorer.confirmDelete": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "geminicodeassist.project": "online-platform-zt2wc",
+    "redhat.telemetry.enabled": true,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.inlineSuggest.edits.allowCodeShifting": "never",
+    "editor.inlineSuggest.edits.renderSideBySide": "never",
+    "editor.inlineSuggest.edits.showLongDistanceHint": false,
+    "editor.inlineSuggest.enabled": false,
+    "editor.inlineSuggest.experimental.emptyResponseInformation": false,
+    "editor.quickSuggestions": {
+        "other": "off"
+    },
+    "editor.autoClosingDelete": "never"
+}
