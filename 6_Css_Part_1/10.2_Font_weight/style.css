@@ -1,0 +1,10 @@
+h1 {
+    font-weight: 900;
+    /*and the default font weight is 700 and we called it bold */
+
+}
+
+h2 {
+    font-weight: 400;
+    /*this is equal to normal and its is a default vaule for fonts  */
+}
